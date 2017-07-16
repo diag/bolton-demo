@@ -8,7 +8,7 @@ Bolton is available via two methods, direct download for Linux x86-64 systems, o
 
 ## Direct Download
 
-Grab bolton from [http://dl.taktak.io/linux/bolton] (`curl -o bolton http://dl.taktak.io/linux/bolton`) and `chmod 755 ./bolton`.  
+Grab bolton from http://dl.taktak.io/linux/bolton (`curl -o bolton http://dl.taktak.io/linux/bolton`) and `chmod 755 ./bolton`.  
 
 ## Docker container
 
@@ -16,4 +16,4 @@ Grab bolton from [http://dl.taktak.io/linux/bolton] (`curl -o bolton http://dl.t
 
 ## Start Bolton
 
-Once you have bolton downloaded, start bolton using `bolton start`. Open your web browser to [http://localhost:9999/] and follow the instructions from there.
+Once you have bolton downloaded, start bolton using `bolton start`. Open your web browser to http://localhost:9999/ and follow the instructions from there.
